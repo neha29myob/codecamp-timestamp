@@ -1,0 +1,22 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/neha29myob/codecamp-timestamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neha29myob/codecamp-timestamp/issues"
+  },
+  "homepage": "https://github.com/neha29myob/codecamp-timestamp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
